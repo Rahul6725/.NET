@@ -1,0 +1,10 @@
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\bin\Debug\Practical-9.exe.config
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\bin\Debug\Practical-9.exe
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\bin\Debug\Practical-9.pdb
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\obj\Debug\Practical-9.csprojAssemblyReference.cache
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\obj\Debug\Practical_9.Form1.resources
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\obj\Debug\Practical_9.Properties.Resources.resources
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\obj\Debug\Practical-9.csproj.GenerateResource.cache
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\obj\Debug\Practical-9.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\obj\Debug\Practical-9.exe
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-9\obj\Debug\Practical-9.pdb
