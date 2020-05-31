@@ -1,0 +1,13 @@
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\bin\Debug\netcoreapp3.1\Practical-1.exe
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\bin\Debug\netcoreapp3.1\Practical-1.deps.json
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\bin\Debug\netcoreapp3.1\Practical-1.runtimeconfig.json
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\bin\Debug\netcoreapp3.1\Practical-1.runtimeconfig.dev.json
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\bin\Debug\netcoreapp3.1\Practical-1.dll
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\bin\Debug\netcoreapp3.1\Practical-1.pdb
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\obj\Debug\netcoreapp3.1\Practical-1.csprojAssemblyReference.cache
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\obj\Debug\netcoreapp3.1\Practical-1.AssemblyInfoInputs.cache
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\obj\Debug\netcoreapp3.1\Practical-1.AssemblyInfo.cs
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\obj\Debug\netcoreapp3.1\Practical-1.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\obj\Debug\netcoreapp3.1\Practical-1.dll
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\obj\Debug\netcoreapp3.1\Practical-1.pdb
+C:\Users\Rahul\OneDrive\Desktop\C#\All-Practicals\Practical-1\obj\Debug\netcoreapp3.1\Practical-1.genruntimeconfig.cache
